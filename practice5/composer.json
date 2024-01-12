@@ -1,0 +1,24 @@
+{
+    "name": "bauberikov/lab5",
+    "autoload": {
+        "psr-4": {
+            "my\\": "src/",
+            "UnitTests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baiseit Bauberikov",
+            "email": "itamiyoji940@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23",
+        "symfony/polyfill-uuid": "^1.28",
+        "ramsey/uuid": "^4.7",
+        "ext-pdo": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
