@@ -8,4 +8,4 @@ class User {
     public $surname;
 }
 
-?><?php
+?>
