@@ -1,0 +1,17 @@
+{
+  "name": "ariseko/practice3",
+  "autoload": {
+    "psr-4": {
+      "my\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Baiseit Bauberikov",
+      "email": "itamiyoji940@gmail.com"
+    }
+  ],
+  "require": {
+    "fakerphp/faker": "^1.00"
+  }
+}
