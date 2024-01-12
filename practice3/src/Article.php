@@ -9,4 +9,4 @@ class Article {
     public $text;
 }
 
-?><?php
+?>
